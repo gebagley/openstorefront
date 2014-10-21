@@ -136,7 +136,6 @@ public class SearchServiceImpl
 					views.add(ComponentSearchView.toView(Article.toView(temp)));
 				}
 			}
-
 		}
 		return views;
 	}
